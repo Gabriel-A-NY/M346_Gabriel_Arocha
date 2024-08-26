@@ -8,15 +8,4 @@
 ![Screenshot 2024-08-26 145308](https://github.com/user-attachments/assets/3b9a7ac0-d116-4dcb-89e9-7ae1b9b50f63)
 
 *JSON-Datei mit der Bucket Policy:*
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "PublicReadGetObject",
-            "Effect": "Allow",
-            "Principal": "*",
-            "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::gabrieluniquebucket/*"
-        }
-    ]
-}
+![Screenshot 2024-08-26 153016](https://github.com/user-attachments/assets/23fd3daa-09b6-4099-aac1-30e9f6f803bd)
