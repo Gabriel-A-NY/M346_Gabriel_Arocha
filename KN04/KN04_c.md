@@ -6,5 +6,9 @@
 **DB Server Sicherheit**
 ![image](https://github.com/user-attachments/assets/9ed7effa-e87f-4c77-b178-e95f5cd5b2f9)
 
+**Instanz Details**
+![image](https://github.com/user-attachments/assets/38227a17-c46b-4784-977c-c73038775b83)
+![image](https://github.com/user-attachments/assets/0bb56f09-9bfa-41ea-83f6-116362b3319e)
+
 **Web Server Sicherheit**
 ![image](https://github.com/user-attachments/assets/e7c72654-1b85-4371-921f-62906957b47b)
