@@ -12,3 +12,8 @@
 
 **Web Server Sicherheit**
 ![image](https://github.com/user-attachments/assets/e7c72654-1b85-4371-921f-62906957b47b)
+
+
+**Angehaltene Instanzen**
+![image](https://github.com/user-attachments/assets/9f6ee319-9f22-4feb-a0a4-493c547a1ca9)
+![image](https://github.com/user-attachments/assets/c35a0932-a689-4c7e-82a4-2ca96af43b56)
